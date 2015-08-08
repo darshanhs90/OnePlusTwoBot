@@ -67,3 +67,17 @@ Parses emails and curls the confirmation link automatically.
 1. Run EmailParser.py
 2. Enter your email
 3. Enter your password.
+
+###Mailinator.js[No Longer Working]
+
+1. Enter your Mailinator API key on line 7
+2. Enter one plus reservation id on line 8
+3. Run the file[use the command: node mailinator.js]
+
+###gmailbot.js
+
+1. Enter one plus reservation id on line 8
+2. Enter your mailID part on line 9
+3. Enter your mail domain part on line 10
+2. Run the file[use the command: node gmailbot.js]
+
